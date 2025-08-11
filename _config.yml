@@ -1,0 +1,8 @@
+title: "你的名字 - 简历"
+theme: minima
+minima:
+  skin: classic
+  social_links:
+    github: your-github
+    linkedin: your-linkedin
+    twitter: your-twitter
